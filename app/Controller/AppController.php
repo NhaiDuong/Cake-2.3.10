@@ -33,7 +33,8 @@ App::uses('CakeSession', 'Model/Datasource');
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
-    public $layout = 'layout';
+    public $layout = array('layout');
+    public $helpers = array("Html","Form");
     public $components = array(
         'Session',
         'Cookie',
@@ -43,15 +44,13 @@ class AppController extends Controller {
                 'action' => 'index'
             ),
             'logoutRedirect' => array(
-                'controller' => 'pages',
-                'action' => 'display',
-                'home'
+                'controller' => 'users',
+                'action' => 'login',
             ),
             'authenticate' => array(
                 'Form' => array(
-                    'userModel' => 'User',
-                    'passwordHasher' => 'Blowfish'
-                )
+                    'passwordHasher' => 'Blowfish',
+                ),
             )
         )
     );
@@ -77,7 +76,6 @@ class AppController extends Controller {
         if (isset($user['role']) && $user['role'] === 'admin') {
             return true;
         }
-
         // Default deny
         return false;
     }
@@ -88,8 +86,4 @@ class AppController extends Controller {
         }
         parent::redirect($url,$status,$exit);
     }
-
-
-
 }
-

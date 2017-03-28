@@ -51,13 +51,22 @@ class PostsController extends AppController {
                 $this->set('posts', $this->Paginator->paginate());
             }
         }
-        //find the latest modified post
+        //find the oldest modified posts
         $condition = array(
             'limit' => 10,
             'order' => 'Post.modified asc',
-            );
+        );
         $modified = $this->Post->find('all', $condition);
         $this->set('modified', $modified);
+
+        //find the latest modified posts using ajax
+        $condition1 = array(
+            'limit' => 10,
+            'order' => 'Post.modified desc',
+        );
+        $latest = $this->Post->find('all', $condition1);
+        $this->set('latest', $latest);
+        return json_encode($latest);
     }
 
     /**
@@ -83,6 +92,13 @@ class PostsController extends AppController {
         );
         $this->set(compact('post'));
 
+        //find the latest modified post
+        $condition = array(
+            'limit' => 10,
+            'order' => 'Post.modified asc',
+        );
+        $modified = $this->Post->find('all', $condition);
+        $this->set('modified', $modified);
         //find the latest modified post
         $condition = array(
             'limit' => 10,

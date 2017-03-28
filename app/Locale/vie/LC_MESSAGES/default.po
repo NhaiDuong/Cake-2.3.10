@@ -4013,7 +4013,7 @@ msgstr "Bài viết mới"
 msgid "Older Posts"
 msgstr "Bài viết trước"
 
-msgid "Invalid username or password."
+msgid "Invalid username or password, try again!"
 msgstr "Sai tên đăng nhập hoặc mật khẩu."
 
 msgid "The user could not be saved. Please, try again."
