@@ -22,12 +22,11 @@ class UsersController extends AppController {
         if ($this->request->is('post')) {
             $this->User->create();
             if ($this->User->save($this->request->data)) {
-                $this->Flash->success(__('The user has been saved'));
+                $this->Session->setFlash(__('The user has been saved'), 'default', array(), 'addSuccess');
                 return $this->redirect(array('action' => 'index'));
             }
-            $this->Flash->error(
-                __('The user could not be saved. Please, try again.')
-            );
+            $this->Session->setFlash(__('The user could not be saved. Please, try again.'), 'default', array(), 'addError');
+
         }
     }
 
@@ -38,12 +37,10 @@ class UsersController extends AppController {
         }
         if ($this->request->is('post') || $this->request->is('put')) {
             if ($this->User->save($this->request->data)) {
-              //  $this->Flash->success(__('The user has been saved'));
+                $this->Session->setFlash(__('The user has been saved'), 'default', array(), 'editSuccess');
                 return $this->redirect(array('action' => 'index'));
             }
-            $this->Flash->error(
-                __('The user could not be saved. Please, try again.')
-            );
+            $this->Session->setFlash(__('The user could not be saved. Please, try again.'), 'default', array(), 'editError');
         } else {
             $this->request->data = $this->User->findById($id);
             unset($this->request->data['User']['password']);
@@ -61,36 +58,27 @@ class UsersController extends AppController {
             throw new NotFoundException(__('Invalid user'));
         }
         if ($this->User->delete()) {
-            $this->Flash->success(__('User deleted'));
+            $this->Session->setFlash(__('User deleted'), 'default', array(), 'deleteSuccess');
             return $this->redirect(array('action' => 'index'));
         }
-        $this->Flash->error(__('User was not deleted'));
+        $this->Session->setFlash(__('User was not deleted'), 'default', array(), 'deleteError');
         return $this->redirect(array('action' => 'index'));
     }
 
     public function beforeFilter() {
         parent::beforeFilter();
         //Allow users to register and logout.
-        $this->Auth->allow('add', 'logout');
+        $this->Auth->allow('add', 'logout', 'login');
     }
 
     public function login() {
         $this->layout = 'layout';
-    //	if($this->request->is('post')){
-    //        if($this->Auth->login()){
-    //            return $this->redirect(array('controller'=>'posts', 'action' => 'index'));
-    //        }
-    //        else {
-    //            $this->Flash->error(__('Sai tài khoản hoặc mật khẩu'));
-    //            $this->set('error', 'Sai tài khoản hoặc mật khẩu');
-    //        }
-    //	}
-
 
     //	if($this->Session->read('Auth.User')){
     //        $this->redirect($this->Auth->redirect());
-     //   }
+    //   }
         if ($this->request->is('post')) {
+
             if ($this->Auth->login()) {
                 return $this->redirect($this->Auth->redirect());
             }

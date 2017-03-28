@@ -4324,3 +4324,722 @@ Request URL: /ReviewCake/js/myScript.js
 Stack Trace:
 #0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2017-03-28 08:10:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:25:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:26:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:39:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:39:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:44:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:46:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 08:46:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:02:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:02:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:02:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:11:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:11:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:15:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:15:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:15:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:15:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:15:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:23:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:23:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:23:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:28:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:28:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:34:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:34:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:35:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:35:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:35:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:41:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:41:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:41:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:41:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:58:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 09:59:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:00:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:08:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:09:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:10:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:10:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:12:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:12:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:12:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:12:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:13:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:13:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:15:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:15:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:15:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:16:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:16:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:17:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:17:08 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:l%E1%BA%B7ng-im
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-28 10:17:54 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:%E1%BA%BByery
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-28 10:19:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:19:27 Error: [MissingActionException] Action PostsController::tin-tuc() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'tin-tuc',
+)
+Request URL: /ReviewCake/posts/tin-tuc/%E1%BA%BByery
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-28 10:19:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:19:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:19:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:20:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:20:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:20:41 Error: [MissingActionException] Action PostsController::tin-tuc() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'tin-tuc',
+)
+Request URL: /ReviewCake/posts/tin-tuc/%E1%BA%BByery
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-28 10:20:43 Error: [MissingActionException] Action PostsController::tin-tuc() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'tin-tuc',
+)
+Request URL: /ReviewCake/posts/tin-tuc/%E1%BA%BByery
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-28 10:20:44 Error: [MissingActionException] Action PostsController::tin-tuc() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'tin-tuc',
+)
+Request URL: /ReviewCake/posts/tin-tuc/%E1%BA%BByery
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-03-28 10:20:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:21:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:21:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:22:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-28 10:22:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -49,6 +49,7 @@ class PostsController extends AppController {
                 );
                 $this->Post->recursive = 0;
                 $this->set('posts', $this->Paginator->paginate());
+
             }
         }
         //find the oldest modified posts
@@ -66,7 +67,7 @@ class PostsController extends AppController {
         );
         $latest = $this->Post->find('all', $condition1);
         $this->set('latest', $latest);
-        return json_encode($latest);
+//        return json_encode($latest);
     }
 
     /**

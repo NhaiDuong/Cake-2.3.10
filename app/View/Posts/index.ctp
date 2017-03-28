@@ -40,7 +40,12 @@
                           ));
                           ?>
                       </h2>
-                      <span class="postmeta"><?php echo __('By ') ,$user['User']['username'];?></span> </div>
+                      <span class="postmeta">
+                          <?php
+                            echo __('By ') ,$post['User']['username'];
+                          ?>
+                      </span>
+                      </div>
                       <p><?php echo h($post['Post']['body']); ?>
                           <span class="readmore">
                                 <?php

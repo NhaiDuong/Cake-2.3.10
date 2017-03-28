@@ -57,7 +57,7 @@ class AppController extends Controller {
 
     public function beforeFilter() {
         $this->_setLanguage();
-        $this->Auth->allow('index', 'view');
+        $this->Auth->allow('index', 'view', 'login');
     }
 
     function _setLanguage() {
@@ -76,7 +76,7 @@ class AppController extends Controller {
         if (isset($user['role']) && $user['role'] === 'admin') {
             return true;
         }
-        // Default deny
+            // Default deny
         return false;
     }
 
