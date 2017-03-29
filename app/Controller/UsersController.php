@@ -48,17 +48,14 @@ class UsersController extends AppController {
     }
 
     public function delete($id = null) {
-        // Prior to 2.5 use
-        // $this->request->onlyAllow('post');
-
-        $this->request->allowMethod('post');
+        $this->request->onlyAllow('post');
 
         $this->User->id = $id;
         if (!$this->User->exists()) {
             throw new NotFoundException(__('Invalid user'));
         }
         if ($this->User->delete()) {
-            $this->Session->setFlash(__('User deleted'), 'default', array(), 'deleteSuccess');
+            $this->Session->setFlash(__('User was deleted'), 'default', array(), 'deleteSuccess');
             return $this->redirect(array('action' => 'index'));
         }
         $this->Session->setFlash(__('User was not deleted'), 'default', array(), 'deleteError');
@@ -68,7 +65,7 @@ class UsersController extends AppController {
     public function beforeFilter() {
         parent::beforeFilter();
         //Allow users to register and logout.
-        $this->Auth->allow('add', 'logout', 'login');
+        $this->Auth->allow('add', 'logout');
     }
 
     public function login() {

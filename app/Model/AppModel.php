@@ -43,4 +43,6 @@ class AppModel extends Model {
             'overwrite' => false    // Does the slug is auto generated when field is saved no matter what
         )
     );
+
+
 }

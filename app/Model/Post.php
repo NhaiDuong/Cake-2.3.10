@@ -6,18 +6,18 @@ App::uses('AppModel', 'Model');
  */
 class Post extends AppModel {
     public $validate = array(
-        'title' => array(
-            'required' => array(
-                'rule' => 'notBlank',
-                'message' => 'A username is required'
-            )
-        ),
-        'body' => array(
-            'required' => array(
-                'rule' => 'notBlank',
-                'message' => 'A password is required'
-            )
-        ),
+//        'title' => array(
+//            'required' => array(
+//                'rule' => 'notBlank',
+//                'message' => 'A title is required.'
+//            )
+//        ),
+//        'body' => array(
+//            'required' => array(
+//                'rule' => 'notBlank',
+//                'message' => 'A content is required.'
+//            )
+//        ),
     );
 
     public $belongsTo = array(

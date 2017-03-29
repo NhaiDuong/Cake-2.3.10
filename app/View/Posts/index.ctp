@@ -5,6 +5,10 @@
             <h2><?php echo $this->Session->flash('noResult');?></h2>
             <h2><?php echo $this->Session->flash('loginError');?></h2>
             <h2><?php echo $this->Session->flash('deletePostSuccess');?></h2>
+            <h2><?php echo $this->Session->flash('login');?></h2>
+            <h2><?php echo $this->Session->flash('addPostSuccess');?></h2>
+            <h2><?php echo $this->Session->flash('editPostError');?></h2>
+            <h2><?php echo $this->Session->flash('deletePostError');?></h2>
         </div>
       <div id="left">
         <div class="post">

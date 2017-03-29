@@ -42,11 +42,14 @@
                 'slug', //pass through slug to my controller
             )
         ));
-    Router::connect('/posts/delete/:id',
-        array('controller' => 'posts', 'action' => 'delete'),
-        array(
-            'id' => '[0-9-]+', // regex again to ensure a valid slug or 404
-        ));
+//    Router::connect('/posts/delete/:slug',
+//        array('controller' => 'posts', 'action' => 'delete'),
+//        array(
+//            'slug' => '[a-z0-9-]+', // regex again to ensure a valid slug or 404
+//            'pass' => array(
+//                'slug', //pass through slug to my controller
+//            )
+//        ));
 /**
  * Load all plugin routes. See the CakePlugin documentation on
  * how to customize the loading of plugin routes.

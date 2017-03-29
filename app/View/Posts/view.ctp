@@ -31,7 +31,7 @@
                                         'width' => '15px',
                                         'height' => '15px',
                                         'title' => 'Edit',
-                                        'url' => array('controller' => 'posts', 'action' => 'edit', $post['Post']['slug'])
+                                        'url' => array('controller' => 'posts', 'action' => 'edit', $post['Post']['id'])
                                     ));
                                 ?>
                                 <?php
@@ -45,7 +45,7 @@
                                 ?>
 
                             </h2>
-                            <span class="postmeta"><?php echo __('By').h($post['User']['username']); ?></span>
+                            <span class="postmeta"><?php echo __('By ').h($post['User']['username']); ?></span>
                         </div>
                             <p><?php echo h($post['Post']['body']); ?></p>
                         <div id="comments" class="comments-list">
