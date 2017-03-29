@@ -26,7 +26,7 @@
  * its action called 'display', and we pass a param to select the view file
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
-	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
+	Router::connect('/', array('controller' => 'posts', 'action' => 'index'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
@@ -42,14 +42,6 @@
                 'slug', //pass through slug to my controller
             )
         ));
-//    Router::connect('/posts/delete/:slug',
-//        array('controller' => 'posts', 'action' => 'delete'),
-//        array(
-//            'slug' => '[a-z0-9-]+', // regex again to ensure a valid slug or 404
-//            'pass' => array(
-//                'slug', //pass through slug to my controller
-//            )
-//        ));
 /**
  * Load all plugin routes. See the CakePlugin documentation on
  * how to customize the loading of plugin routes.

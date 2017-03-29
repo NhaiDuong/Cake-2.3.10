@@ -33,7 +33,7 @@ App::uses('CakeSession', 'Model/Datasource');
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
-    public $layout = array('layout');
+    public $layout = 'layout';
     public $helpers = array("Html","Form");
     public $components = array(
         'Session',

@@ -7,16 +7,13 @@ App::uses('AppController', 'Controller');
  * @property PaginatorComponent $Paginator
  */
 class PostsController extends AppController {
-    public $layout = 'layout';
-
-
     /**
      * Components
      *
      * @var array
      */
     public $components = array('Paginator', 'Session');
-
+    
     /**
      * index method
      *
@@ -35,12 +32,11 @@ class PostsController extends AppController {
                 $posts = $this->Post->find('all',array('conditions' => $con));
                 if ($posts){
                     $this->Post->recursive = 0;
-//                    $this->set('posts', $posts);
-                    $this->paginate = array(
+                    $this->Paginator->settings = array(
                         'limit' => 10,
                         'conditions' => $con
                     );
-                    $this->set('posts', $this->paginate());
+                    $this->set('posts', $this->Paginator->paginate());
                 }
                 else
                     $this->Session->setFlash(__('No result match!'), 'default', array(), 'noResult');
