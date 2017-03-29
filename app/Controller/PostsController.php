@@ -121,6 +121,8 @@ class PostsController extends AppController {
                 $this->Session->setFlash(__('You must login first.'), 'default', array(), 'login');
             }else{
                 $this->request->data['Post']['user_id'] = $this->Auth->user('id');
+                $title = $this->request->data['Post']['title'];
+                $this->request->data['Post']['slug'] = $this->createSlug($title);
                 if ($this->Post->save($this->request->data)) {
                     $this->Session->setFlash(__('Your post has been saved.'), 'default', array(), 'addPostSuccess');
                     return $this->redirect(array('action' => 'index'));
@@ -212,7 +214,6 @@ class PostsController extends AppController {
         if ($this->action === 'add') {
             return true;
         }
-
         // The owner of a post can edit and delete it
         if (in_array($this->action, array('edit', 'delete'))) {
             $postId = (int) $this->request->params['pass'][0];
@@ -230,17 +231,17 @@ class PostsController extends AppController {
         $i = 0;
         $params = array ();
         $params ['conditions']= array();
-        $params ['conditions'][$this->name.'.slug']= $slug;
+        $params ['conditions']['Post.slug']= $slug;
         if (!is_null($id)) {
-            $params ['conditions']['not'] = array($this->name.'.id'=>$id);
+            $params ['conditions']['not'] = array('Post.id'=>$id);
         }
-        while (count($this->find ('all',$params))) {
+        while (count($this->Post->find ('all',$params))) {
             if (!preg_match ('/-{1}[0-9]+$/', $slug )) {
                 $slug .= '-' . ++$i;
             } else {
                 $slug = preg_replace ('/[0-9]+$/', ++$i, $slug );
             }
-            $params ['conditions'][$this->name . '.slug']= $slug;
+            $params ['conditions']['Post.slug']= $slug;
         }
         return $slug;
     }

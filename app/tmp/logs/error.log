@@ -6985,3 +6985,215 @@ Request URL: /ReviewCake/js/myScript.js
 Stack Trace:
 #0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2017-03-29 04:56:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-29 04:57:37 Error: Fatal Error (1): Call to undefined function create_slug() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 04:57:37 Error: [FatalErrorException] Call to undefined function create_slug()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 04:58:31 Error: Fatal Error (1): Call to undefined function create_slug() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 04:58:31 Error: [FatalErrorException] Call to undefined function create_slug()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:04:20 Error: Fatal Error (1): Call to undefined function create_slug() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:04:20 Error: [FatalErrorException] Call to undefined function create_slug()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:04:55 Error: Fatal Error (1): Call to undefined function create_slug() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:04:55 Error: [FatalErrorException] Call to undefined function create_slug()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:05:18 Error: Fatal Error (1): Call to undefined function create_slug() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:05:19 Error: [FatalErrorException] Call to undefined function create_slug()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:05:43 Error: Fatal Error (1): Call to undefined function create() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:05:43 Error: [FatalErrorException] Call to undefined function create()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:06:02 Error: Fatal Error (1): Call to undefined method PostsController::create() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:06:02 Error: [FatalErrorException] Call to undefined method PostsController::create()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:06:21 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 255]
+2017-03-29 05:06:21 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\Program File...', 255)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\Program File...', 255, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\Program File...', 255, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:06:32 Error: Fatal Error (1): Call to undefined method PostsController::create() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:06:32 Error: [FatalErrorException] Call to undefined method PostsController::create()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:06:43 Error: Fatal Error (1): Call to undefined method PostsController::create() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 124]
+2017-03-29 05:06:43 Error: [FatalErrorException] Call to undefined method PostsController::create()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 124)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 124, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:07:11 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'createS' at line 1
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('createS', Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('createS', Array, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('createS', Array, Array)
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Model.php(799): DboSource->query('createS', Array, Object(Post))
+#5 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(124): Model->__call('createS', Array)
+#6 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(124): Post->createS('Hulk')
+#7 [internal function]: PostsController->add()
+#8 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-29 05:08:00 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'createSlug' at line 1
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('createSlug', Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('createSlug', Array, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(611): DboSource->fetchAll('createSlug', Array, Array)
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Model.php(799): DboSource->query('createSlug', Array, Object(Post))
+#5 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(124): Model->__call('createSlug', Array)
+#6 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(124): Post->createSlug('Hulk')
+#7 [internal function]: PostsController->add()
+#8 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-29 05:15:39 Error: Fatal Error (1): Call to undefined method PostsController::find() in [C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php, line 240]
+2017-03-29 05:15:39 Error: [FatalErrorException] Call to undefined method PostsController::find()
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\Program File...', 240)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\Program File...', 240, Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\Program File...', 240, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-29 05:16:03 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Posts.slug' in 'where clause'
+Request URL: /ReviewCake/posts/add
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(666): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Datasource\DboSource.php(1077): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Model\Model.php(2700): DboSource->read(Object(Post), Array)
+#5 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(240): Model->find('all', Array)
+#6 C:\Program Files (x86)\Ampps\www\ReviewCake\app\Controller\PostsController.php(125): PostsController->createSlug('Hulk')
+#7 [internal function]: PostsController->add()
+#8 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#11 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-29 05:17:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-29 05:17:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-29 05:17:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-29 05:18:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-29 05:18:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /ReviewCake/js/myScript.js
+Stack Trace:
+#0 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
