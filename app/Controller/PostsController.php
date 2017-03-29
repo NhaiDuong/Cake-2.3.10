@@ -31,10 +31,16 @@ class PostsController extends AppController {
         if ($this->request->is('get')){
             if(isset($this->params->query['keyword'])){
                 $keyword = $this->params->query['keyword'];
-                $condition = array("Post.title LIKE '%$keyword%'");
-                $posts = $this->Post->find('all',array('conditions' => $condition));
+                $con = array("Post.title LIKE '%$keyword%'");
+                $posts = $this->Post->find('all',array('conditions' => $con));
                 if ($posts){
-                    $this->set('posts', $posts);
+                    $this->Post->recursive = 0;
+//                    $this->set('posts', $posts);
+                    $this->paginate = array(
+                        'limit' => 10,
+                        'conditions' => $con
+                    );
+                    $this->set('posts', $this->paginate());
                 }
                 else
                     $this->Session->setFlash(__('No result match!'), 'default', array(), 'noResult');
@@ -49,7 +55,6 @@ class PostsController extends AppController {
                 );
                 $this->Post->recursive = 0;
                 $this->set('posts', $this->Paginator->paginate());
-
             }
         }
         //find the oldest modified posts

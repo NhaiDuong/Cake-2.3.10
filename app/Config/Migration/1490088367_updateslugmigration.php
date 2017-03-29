@@ -43,7 +43,7 @@ class UpdateSlugMigration extends CakeMigration {
  * @return bool Should process continue
  */
 	public function after($direction) {
-        if ($direction == 'up'){
+          if ($direction == 'up'){
             $Post = ClassRegistry::init('Post');
             $posts = $Post->find('list');
             foreach ($posts as $id => $name){
