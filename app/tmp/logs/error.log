@@ -8538,3 +8538,165 @@ Stack Trace:
 #3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
 #4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2017-03-29 11:10:44 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:cmd-2mdlj%3F500000?500000=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-29 11:11:04 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:l%E1%BA%B7ng-im
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-29 11:11:51 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:rnt-mplgh%3F500094?500094=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-29 11:11:57 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:wzu-q48zz%3F500096?500096=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:18:44 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:o9g-jzrwl%3F500093?500093=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:19:36 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:gus-yf1q4%3F500095?500095=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:22:45 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:o9g-jzrwl%3F500093?500093=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:22:52 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:o9g-jzrwl%3F500093?500093=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:22:53 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:o9g-jzrwl%3F500093?500093=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:22:55 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:o9g-jzrwl%3F500093?500093=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:23:10 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:gus-yf1q4%3F500095?500095=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:23:11 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:gus-yf1q4%3F500095?500095=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:23:46 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:40x-9aall%3F500001?500001=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:27:17 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:vfer3bx-wufn%3F10152?10152=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:27:38 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:8oz-vfer3%3F112002?112002=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:28:14 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:vfer3bx-wufn%3F10152?10152=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:29:18 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:vfe-qknrf%3F443953?443953=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-30 02:29:28 Error: [NotFoundException] Invalid post
+Request URL: /ReviewCake/posts/view/slug:vfe-qknrf%3F448049?448049=
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\Program Files (x86)\Ampps\www\ReviewCake\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Program Files (x86)\Ampps\www\ReviewCake\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

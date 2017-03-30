@@ -10,7 +10,7 @@
         <?php
         echo $this->Html->meta('icon');
         echo $this->Html->css(array('main'));
-//        echo $this->Html->script(array('myScript'));
+        echo $this->Html->script(array('myScript'));
         echo $this->fetch('meta');
         echo $this->fetch('css');
         echo $this->fetch('script');
@@ -99,7 +99,9 @@
                       <?php echo $this->Html->link(__('List users'), array('controller' => 'users','action' => 'index'));?>
                   </span>
                     </h2>
-                    <h2><span><?php echo __('Older Posts');?></span></h2>
+                    <h2><span class="list_user">
+                            <?php echo $this->html->link(__('Older Posts'), '#', array('onclick'=>'return false;')); ?>
+                        </span></h2>
                     <div class="posts">
                         <ul>
                             <?php if (isset($modified)){
@@ -108,8 +110,12 @@
                                 <?php        }}?>
                         </ul>
                     </div>
-                    <h2><span><?php echo __('Latest Posts');?></span></h2>
-                    <div class="posts">
+                    <h2>
+                        <span class="list_user">
+                            <?php echo $this->html->link(__('Latest Posts'), '#', array('onclick'=>'return false;')); ?>
+                        </span>
+                    </h2>
+                    <div class="posts" id="latest">
                         <ul>
                             <?php if (isset($latest)){
                                 foreach ($latest as $latest){ ?>

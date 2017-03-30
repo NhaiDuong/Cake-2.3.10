@@ -13,7 +13,7 @@ class PostsController extends AppController {
      * @var array
      */
     public $components = array('Paginator', 'Session');
-    
+
     /**
      * index method
      *
@@ -43,7 +43,6 @@ class PostsController extends AppController {
             }else{
                 $this->Paginator->settings = array(
                     'Post' => array(
-                        'paramType' => 'querystring',
                         'limit' => 10,
                         'order' => array('Post.created' => 'desc'
                         )
@@ -68,7 +67,6 @@ class PostsController extends AppController {
         );
         $latest = $this->Post->find('all', $condition1);
         $this->set('latest', $latest);
-//        return json_encode($latest);
     }
 
     /**
