@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09b0dc6b-5d90-4d76-8ef2-819eaddc0980" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/webroot/js/myScript.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_cake_dev_eng" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controller/PostsController.php" afterPath="$PROJECT_DIR$/app/Controller/PostsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Layouts/layout.ctp" afterPath="$PROJECT_DIR$/app/View/Layouts/layout.ctp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Posts/view.ctp" afterPath="$PROJECT_DIR$/app/View/Posts/view.ctp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_list" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_list" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_posts" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_posts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_users" afterPath="$PROJECT_DIR$/app/tmp/cache/models/myapp_cake_model_default_blogs_users" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_file_map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_method_cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_object_map" afterPath="$PROJECT_DIR$/app/tmp/cache/persistent/myapp_cake_core_object_map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tmp/logs/error.log" afterPath="$PROJECT_DIR$/app/tmp/logs/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/webroot/css/main.css" afterPath="$PROJECT_DIR$/app/webroot/css/main.css" />
-    </list>
+    <list default="true" id="09b0dc6b-5d90-4d76-8ef2-819eaddc0980" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -560,15 +545,15 @@
       <workItem from="1490610605399" duration="2062000" />
       <workItem from="1490667601801" duration="20354000" />
       <workItem from="1490753868551" duration="25405000" />
-      <workItem from="1490840166782" duration="7052000" />
+      <workItem from="1490840166782" duration="7131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74796000" />
+    <option name="totallyTimeSpent" value="74875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36197916" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
